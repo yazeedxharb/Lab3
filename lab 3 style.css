@@ -1,0 +1,22 @@
+.image-preview img {
+    border: 30px solid;
+    border-color: skyblue lightpink lightgreen #ffefd5;
+    display: block;
+    margin: auto;
+  }
+  
+  p > span {
+    color: red;
+  }
+  #header span {
+    color: pink;
+  }
+  span {
+    color: green;
+  }
+  #header :last-child {
+    color: orange;
+  }
+  #header span:first-child:hover {
+    color: blue;
+  }
